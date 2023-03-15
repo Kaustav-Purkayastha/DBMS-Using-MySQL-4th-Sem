@@ -1,0 +1,35 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Create a table Employee (empid, empname, sex, dept, salary). 'empid' as primary key.
+	(a) Make at least 6 entries in the table.
+	(b) Display the names of the employees whose salary are more than 20000 but less than 30000.
+	(c) Count the number of employees who are working in the 'Maths' department.
+
+2. Create a table Route (rid, rno, origin, destn, fare, distance). 'rid' as primary key.
+	(a) Make at least 6 entries in the table.
+	(b) Display only those routes whose origin has a substring 'ma'.
+	(c) Increase the fare of all the routes by 5%.
+
+3. Create a table Student (roll, name, address, dept). 'roll' as primary key.
+	(a) Store at least 5 records.
+	(b) Add an attribute named 'contact' in the table.
+	(c) Update all the records.
+
+4. Create a table Client (clno, name, address, city, state).
+	(a) Display the distinct city in the table.
+	(b) List the name and city of clients in the state 'Assam'.
+	(c) Count the number of clients in the state 'Bihar'.
+
+5. Create the following tables:
+		Customer (Cid, Cname);  'Cid' as primary key.
+		Branch (Bcode, Bname);  'Bcode' as primary key.
+		Account (Ano, Atype, Balance, Cid, Bcode);  'Ano' as primary key.
+	An account can be saving account or a current account. Check Atype in 'S' or 'C'. A customer can have both types of accounts.
+		Transaction (Tid, Ano, Ttype, Tdate, Tamount);  'Tid' and 'Ano' as primary key.
+	Ttype can be 'D' or 'W'. D - Deposit, W - Withdrawal.
+	(a) Make entries in each of the table.
+	(b) Develop a SQL query to list the details of customers who have a saving account and a current account.
+	(c) Develop a SQL query to list the details of branches and the number of accounts in each branch.
+	(d) Develop a SQL query to list the details of branches where the number of accounts is less than the average number of accounts in all branches.
+
+
