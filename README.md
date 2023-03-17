@@ -31,6 +31,7 @@
 #### &ensp; &ensp; (b) Display the names of the employees whose salary are more than 20000 but less than 30000.
 #### &ensp; &ensp; (c) Count the number of employees who are working in the 'Maths' department.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-01/Employee.sql) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-01/Outputs/) 🖥
 <br/>
 
 
@@ -39,6 +40,7 @@
 #### &ensp; &ensp; (b) Display only those routes whose origin has a substring 'ma'.
 #### &ensp; &ensp; (c) Increase the fare of all the routes by 5%.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-02/Route.sql) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-02/Outputs/) 🖥
 <br/>
 
 
@@ -47,6 +49,7 @@
 #### &ensp; &ensp; (b) Add an attribute named 'contact' in the table.
 #### &ensp; &ensp; (c) Update all the records.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-03/Student.sql) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-03/Outputs/) 🖥
 <br/>
 
 
@@ -55,6 +58,7 @@
 #### &ensp; &ensp; (b) Display only those routes whose origin has a substring 'ma'.
 #### &ensp; &ensp; (c) Count the number of clients in the state 'Bihar'.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-04/Client.sql) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-04/Outputs/) 🖥
 <br/>
 
 
@@ -70,6 +74,7 @@
 #### &ensp; &ensp; (c) Develop a SQL query to list the details of branches and the number of accounts in each branch.
 #### &ensp; &ensp; (d) Develop a SQL query to list the details of branches where the number of accounts is less than the average number of accounts in all branches.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-05/Bank.sql) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/DBMS-Using-MySQL-4th-Sem/blob/main/Solutions/Q-05/Outputs/) 🖥
 <br/>
 
 
